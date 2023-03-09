@@ -1,9 +1,10 @@
 package com.example.minggu2;
 
-import android.support.v7.app.AppCompatActivity;
+//import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.EditText;
-
+import androidx.appcompat.app.AppCompatActivity;
 public class LinearLayout extends AppCompatActivity {
     EditText to, subject, message;
     Button send;

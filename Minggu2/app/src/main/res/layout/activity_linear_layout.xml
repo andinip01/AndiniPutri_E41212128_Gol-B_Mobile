@@ -10,7 +10,7 @@
     tools:context=".LinearLayout">
     <EditText
         android:id="@+id/to"
-        android:layout_width="match_parent"
+        android:layout_width="804dp"
         android:layout_height="wrap_content"
         android:hint="to"/>
     <EditText
